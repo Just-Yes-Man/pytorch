@@ -1,0 +1,4 @@
+flask==3.0.3
+gunicorn==22.0.0
+torch==2.4.1
+numpy==2.1.1
